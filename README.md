@@ -9,11 +9,6 @@
 
 Arabnotation is a text annotation tool for Arabic language. It provides annotation features for text classification, sequence labeling and sequence to sequence tasks. So, you can create labels and annotate your text easily.Just create a project, upload data and start annotating.
 
-## Demo
-
-You can try the [annotation demo](http://arabnotation.com).
-
-![Demo image](https://raw.githubusercontent.com/arabnotation/arabnotation/docs/images/demo/demo.gif)
 
 ## Documentation
 
