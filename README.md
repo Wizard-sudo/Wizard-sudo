@@ -7,7 +7,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/35ac8625a2bc4eddbff23dbc61bc6abb)](https://www.codacy.com/gh/arabnotation/arabnotation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arabnotation/arabnotation&amp;utm_campaign=Badge_Grade)
 [![arabnotation CI](https://github.com/arabnotation/arabnotation/actions/workflows/ci.yml/badge.svg)](https://github.com/arabnotation/arabnotation/actions/workflows/ci.yml)
 
-arabnotation is an open source text annotation tool for humans. It provides annotation features for text classification, sequence labeling and sequence to sequence tasks. So, you can create labeled data for sentiment analysis, named entity recognition, text summarization and so on. Just create a project, upload data and start annotating. You can build a dataset in hours.
+Arabnotation is a text annotation tool for Arabic language. It provides annotation features for text classification, sequence labeling and sequence to sequence tasks. So, you can create labels and annotate your text easily.Just create a project, upload data and start annotating.
 
 ## Demo
 
