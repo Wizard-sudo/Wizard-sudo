@@ -5,7 +5,7 @@
     "website":['Welcome to ArabNotation!'],
     "repository":["https://www.univ-chief.dz/uc/wp-content/uploads/2016/11/Logo-UHBC-GO-final.png" ],
     "logo":['https://w7.pngwing.com/pngs/80/709/png-transparent-android-note-taking-android-blue-text-logo.png'],
-    "success_url":["https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVep5Q.png"],
+    "success_url":["https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVxep5Q.png"],
     "env": {
         " Benlakehal Mohamed Younes ": {
             "description": "The user name for the admin account."
