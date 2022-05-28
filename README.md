@@ -1,5 +1,5 @@
  <>div align="center">
-  <img src="https://"https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVxep5Q.png">
+  <img src="https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVxep5Q.png">
 </div>
 
 # arabnotation
