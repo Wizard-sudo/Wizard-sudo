@@ -1,5 +1,5 @@
  <>div align="center">
-  <img src="https://raw.githubusercontent.com/arabnotation/arabnotation/docs/images/logo/arabnotation.png">
+  <img src="https://w7.pngwing.com/pngs/80/709/png-transparent-android-note-taking-android-blue-text-logo.png">
 </div>
 
 # arabnotation
