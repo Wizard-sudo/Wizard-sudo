@@ -1,0 +1,43 @@
+{
+    "name": "ArabicNotation",
+    "description": " Text Annotation Tools for Arabic Language.",
+    "keywords":["How to use ArabNotation:"],
+    "website":['Welcome to ArabNotation!'],
+    "repository":["https://www.univ-chief.dz/uc/wp-content/uploads/2016/11/Logo-UHBC-GO-final.png" ],
+    "logo":['https://w7.pngwing.com/pngs/80/709/png-transparent-android-note-taking-android-blue-text-logo.png'],
+    "success_url":["https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVep5Q.png"],
+    "env": {
+        " Benlakehal Mohamed Younes ": {
+            "description": "The user name for the admin account."
+        },
+        "ADMIN_CONTACT_EMAIL": {
+            "description": "The contact email address for the admin account."
+        },
+        "ADMIN_PASSWORD": {
+            "description": "The password for the admin account."
+        },
+        "SECRET_KEY": {
+            "description": "The value to use as the Django secret key.",
+            "generator": "secret"
+        },
+        "GOOGLE_TRACKING_ID": {
+            "description": "Google Analytics tracking id.",
+            "required": "false",
+            "value": ""
+        },
+        "DJANGO_SETTINGS_MODULE": {
+            "description": "Django Settings Module. You don't have to change this.",
+            "required": "true",
+            "value": "config.settings.Younes"
+        }
+    },
+    "stack": "container",
+    "scripts": {
+        "postdeploy": "bkl/ArabicNotation/tools/younes"
+    },
+    "addons": [
+        {
+            "plan": "younes-postgresql:hobby-dev"
+        }
+    ]
+}
