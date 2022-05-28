@@ -2,10 +2,10 @@
     "name": "ArabicNotation",
     "description": " Text Annotation Tools for Arabic Language.",
     "keywords":["How to use ArabNotation:"],
-    "website":['Welcome to ArabNotation!'],
+    "website":"https://github.com/Wizard-sudo"
     "repository":["https://www.univ-chief.dz/uc/wp-content/uploads/2016/11/Logo-UHBC-GO-final.png" ],
     "logo":['https://w7.pngwing.com/pngs/80/709/png-transparent-android-note-taking-android-blue-text-logo.png'],
-    "success_url":["https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVxep5Q.png"],
+    "success_url":"https://github.com/Wizard-sudo"
     "env": {
         " Benlakehal Mohamed Younes ": {
             "description": "The user name for the admin account."
