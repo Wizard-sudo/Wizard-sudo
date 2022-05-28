@@ -1,5 +1,5 @@
  <>div align="center">
-  <img src=https://miro.medium.com/max/1400/1*6QLSW5ny7Gdq1WXdVep5Q.png"">
+  <img src="https://w7.pngwing.com/pngs/80/709/png-transparent-android-note-taking-android-blue-text-logo.png">
 </div>
 
 # arabnotation
